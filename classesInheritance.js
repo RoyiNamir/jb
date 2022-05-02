@@ -18,5 +18,6 @@ class Cheetah extends Animal {
   }
 }
 
-var chichi = new Cheetah("avi");
+var chichi = new Cheetah("avi2");
+
 console.log(chichi);
