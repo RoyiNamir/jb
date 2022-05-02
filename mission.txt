@@ -1,0 +1,30 @@
+call , apply ,bind
+====================
+1) create an object with property:"name" with value (x)
+2) create an apply/call/bind functions ( which reads the "name") which set their context to the object in line #1
+
+
+
+modules
+==========
+1)create an exported function named "expo" (which gets 2 params : number , exponential value : 2^5)
+2) import that function from another file , and USE this expo methods
+
+promise
+==========
+create an HTML file with a button 
+when a button is clicked , start a timer of 2 seconds
+then repaint the button as red , and then , after 2 more seconds , set color as original
+
+
+prototypes
+============
+
+create an Animal function constructor. create a "breath" method in animal
+create a Lion function constructor.
+attach Lion to Animal so that Lion can breath also.
+
+
+
+
+
