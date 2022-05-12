@@ -48,7 +48,11 @@ let p = new Person();
 //p.eat();
 //console.log(p.food);
 
+let n = 0b0111;
+let h= parseInt(111,2)
+console.log(h);
 
+console.log(n);
 
 
 
