@@ -45,8 +45,8 @@ class Person{
 }
 
 let p = new Person();
-p.eat();
-console.log(p.food);
+//p.eat();
+//console.log(p.food);
 
 
 
