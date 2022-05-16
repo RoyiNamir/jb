@@ -1,0 +1,26 @@
+/*$(".mydiv .mb:eq(0)").css('background-color','red')
+                    .text('fff')
+                    .append('<h1>f</h1>')*/
+
+
+
+//.css('background-color','red')                 
+
+//console.log($(".mydiv .blue").eq(0).text().indexOf("aaa"))
+$(".mydiv .blue").filter(function(){ return $(this).text().indexOf("bbb")>-1})
+                 .addClass("royi redbg").animate({
+    opacity: 1,
+    left: "+=50",
+    height: "100px"
+  }, 1000, function() {
+    
+  });
+
+
+
+
+
+damka : 
+https://jsbin.com/suduzomoti/4/edit?html,css,js,output
+
+https://jsbin.com/laqoboqibe/1/edit?html,js,output
