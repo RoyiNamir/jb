@@ -9,5 +9,11 @@ arr.forEach(v => {
 
 })
 
- console.log(res);
+ //console.log(res);
+
+
+//another shorter way :
+
+let r = arr.reduce((p, c) => (p[c] = (p[c] || 0)+1, p), {})
+console.log(r);
 
