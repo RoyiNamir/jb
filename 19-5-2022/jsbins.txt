@@ -1,0 +1,37 @@
+//there are 3 types to document.ready : 
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+
+});
+
+
+
+$(function () { //document.ready
+  
+  //proof
+  //document.getElementById("myDiv").style.backgroundColor='red'
+   
+  })
+
+
+             
+
+$(document).ready(function() {
+    
+});
+
+
+//https://jsbin.com/jolidagega/edit?html,js,output
+
+//roby's task : https://jsbin.com/talevifura/1/edit?html,js,output
+                https://jsbin.com/dakuvuyoce/1/edit?html,js,output
+//meitar's task : https://jsbin.com/rigipinusu/1/edit?html,js,output
+
+
+//ajax : https://jsbin.com/kozupoxefa/1/edit?html,js,output
+
+//2 ajax - https://jsbin.com/wusajahase/1/edit?html,js,output
+
+
