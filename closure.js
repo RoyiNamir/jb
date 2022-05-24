@@ -10,3 +10,4 @@ var k = p();
 console.log(k());
 console.log(k());
 console.log(k());
+
